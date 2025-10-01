@@ -21,7 +21,7 @@ CLIENT_SECRET = "accura_emr_secret"
 APP_SECRET_KEY = "a_very_secret_key_for_sessions"
 PATIENT_CLIENT_REDIRECT_URI = "http://localhost:8000/consent/callback"
 FRONTEND_CONSENT_SUCCESS_URI = "https://sih-frontend-nu.vercel.app/add-patient/success"
-MOCK_FHIR_ENDPOINT = "http://127.0.0.1:8001/fhir/bundle"
+MOCK_FHIR_ENDPOINT = f"{ABHA_SERVER_URL}/fhir/bundle"
 
 models.Base.metadata.create_all(bind=engine)
 
