@@ -19,8 +19,11 @@ ABHA_SERVER_URL = os.getenv("ABHA_SERVER_URL", "http://127.0.0.1:8001")
 CLIENT_ID = "accura_emr_client"
 CLIENT_SECRET = "accura_emr_secret"
 APP_SECRET_KEY = "a_very_secret_key_for_sessions"
-PATIENT_CLIENT_REDIRECT_URI = "http://localhost:8000/consent/callback"
-FRONTEND_CONSENT_SUCCESS_URI = "https://sih-frontend-nu.vercel.app/add-patient/success"
+BACKEND_BASE_URL = os.getenv("BACKEND_BASE_URL", "http://localhost:8000")
+FRONTEND_BASE_URL = os.getenv("FRONTEND_BASE_URL", "https://sih-frontend-nu.vercel.app")
+
+PATIENT_CLIENT_REDIRECT_URI = f"{BACKEND_BASE_URL}/consent/callback"
+FRONTEND_CONSENT_SUCCESS_URI = f"{FRONTEND_BASE_URL}/add-patient/success"
 MOCK_FHIR_ENDPOINT = f"{ABHA_SERVER_URL}/fhir/bundle"
 
 models.Base.metadata.create_all(bind=engine)
@@ -46,7 +49,8 @@ app.add_middleware(
 def auth_login(request: Request):
     state = str(uuid.uuid4())
     request.session["oauth_state"] = state
-    auth_url = f"{ABHA_SERVER_URL}/authorize?client_id={CLIENT_ID}&redirect_uri=http://localhost:8000/auth/callback&state={state}"
+    redirect_uri = f"{BACKEND_BASE_URL}/auth/callback"
+    auth_url = f"{ABHA_SERVER_URL}/authorize?client_id={CLIENT_ID}&redirect_uri={redirect_uri}&state={state}"
     return RedirectResponse(url=auth_url)
 
 @app.get("/auth/callback", tags=["Authentication"])
@@ -69,7 +73,7 @@ async def auth_callback(request: Request, code: str, state: str):
         raise HTTPException(status_code=400, detail="Invalid token: could not decode")
     request.session["user_id"] = user_id
     request.session["user_name"] = user_name
-    return RedirectResponse(url="http://localhost:5173/dashboard")
+    return RedirectResponse(url=f"{FRONTEND_BASE_URL}/dashboard")
 
 # --- Patient Consent Endpoints ---
 
