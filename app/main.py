@@ -6,6 +6,7 @@ from typing import List, Dict, Any
 from fastapi.middleware.cors import CORSMiddleware
 from starlette.middleware.sessions import SessionMiddleware
 import uuid
+import os
 import httpx
 import jwt
 import datetime
@@ -14,7 +15,7 @@ from . import models, schemas
 from .database import engine, get_db
 
 # --- OAuth & App Configuration ---
-ABHA_SERVER_URL = "http://127.0.0.1:8001"
+ABHA_SERVER_URL = os.getenv("ABHA_SERVER_URL", "http://127.0.0.1:8001")
 CLIENT_ID = "accura_emr_client"
 CLIENT_SECRET = "accura_emr_secret"
 APP_SECRET_KEY = "a_very_secret_key_for_sessions"
