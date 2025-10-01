@@ -19,7 +19,7 @@ CLIENT_ID = "accura_emr_client"
 CLIENT_SECRET = "accura_emr_secret"
 APP_SECRET_KEY = "a_very_secret_key_for_sessions"
 PATIENT_CLIENT_REDIRECT_URI = "http://localhost:8000/consent/callback"
-FRONTEND_CONSENT_SUCCESS_URI = "http://localhost:5173/add-patient/success"
+FRONTEND_CONSENT_SUCCESS_URI = "https://sih-frontend-nu.vercel.app/add-patient/success"
 MOCK_FHIR_ENDPOINT = "http://127.0.0.1:8001/fhir/bundle"
 
 models.Base.metadata.create_all(bind=engine)
@@ -33,7 +33,7 @@ app = FastAPI(
 app.add_middleware(SessionMiddleware, secret_key=APP_SECRET_KEY, same_site='lax', https_only=False)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=["http://localhost:5173", "https://sih-frontend-nu.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
