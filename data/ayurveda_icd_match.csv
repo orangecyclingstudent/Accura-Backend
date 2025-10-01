@@ -1,0 +1,581 @@
+ayurveda_code,ayurveda_term,ayurveda_desc,icd_code,icd_title,similarity_score,rank
+AYU,VYADHI-VINISCAYAH,diagnostic conditions ,SM4Z,"- - - - - Liver and Spleen disorders (TM2), unspecified",0.589675,2
+DIS,VIKARAH,disease/disorder ,SP56,- - - - - High grade fever disorder (TM2),0.6173661,1
+A,DOSHAVAISHAMYAM,derangement of dōṣa ,SR10,- - - - Vitiation of vāta pattern (TM2),0.6118767,2
+AA,VATAVYADHIH,disorders due to vāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.61770964,1
+AAA,DOSHAVASTHA (VATA),morbid state of dōṣa ,SR10,- - - - Vitiation of vāta pattern (TM2),0.6484455,1
+AAA-1,VATASANCAYAH,accumulation of vāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.73275244,1
+AAA-2,VATAVRUDDHIH,aggravation of vāta ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.6344389,2
+AAA-2.1,VATAPRAKOPAH,vitiation of vāta ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.6416601,2
+AAA-2.2,PRANAVATAKOPAH,vitiated prāṇavāyu ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.71470773,1
+AAA-2.3,UDANAVATAKOPAH,vitiated udānavāyu ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.7221564,3
+AAA-2.4,VYANAVATAKOPAH,vitiated vyānavāyu ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.7192898,1
+AAA-2.5,SAMANAVATAKOPAH,vitiated samānavāyu ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.7362435,1
+AAA-2.6,APANAVATAKOPAH,vitiated apānavāyu ,SS5C,- - - - - Aẕal-predominant Vaḷi body constitution pattern (TM2),0.6906893,2
+AAA-3,VATAPRASARANAM,spreading of vātadōṣa ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.70892775,1
+AAA-4,VATAKSHAYAH,depletion of vātadōṣa ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.68440455,1
+AAB,NANATMAJAVATAVIKARAH,diseases due only to vitiated vāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6186877,1
+AAB-1,ATIPRALAPAH (KEVALAVATA),delirium in excess (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.68356717,1
+,,,,,,
+,,,,,,
+AAB-2,ANAVASTHITACITTATVAM (KEVALAVATA),unstable state of mind (due only to vātadōṣa) ,SR10,- - - - Vitiation of vāta pattern (TM2),0.63603055,
+AAB-3,ANGAMARDAH (KEVALAVATA),generalized body ache (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.70310736,
+AAB-4,ANGASUSHKATA (KEVALAVATA),wasting of body part(s) (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.69490516,
+,,,,,,
+,,,,,,
+AAB-5,ANGAVIBRAMSAH (KEVALAVATA),dislocation/laxity of body part(s) (due only to vātadōṣa) ,SS5A,- - - - - Vaḷi-predominant Aẕal body constitution pattern (TM2),0.6899295,
+,,,,,,
+,,,,,,
+AAB-6,ARDITAH (KEVALAVATA),facial paralysis (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6886245,
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-7,ARASAJNATA (KEVALAVATA),ageusia (due only to vātadōṣa) ,SS5C,- - - - - Aẕal-predominant Vaḷi body constitution pattern (TM2),0.6518417,1
+,,,,,,
+,,,,,,
+AAB-8,ASABDASRAVANAM (KEVALAVATA),tinnitus (due only to vātadōṣa) ,SS75,- - - - - Sawdā’ predominant temperament pattern (TM2),0.6266011,1
+,,,,,,
+AAB-9,ASVAPNAH (KEVALAVATA),insomnia (due only to vātadōṣa) ,SS73,- - - - - Ṣafrā’ predominant temperament pattern (TM2),0.65520585,1
+,,,,,,
+,,,,,,
+AAB-10,AKSHIBEDAH (KEVALAVATA),tearing pain of eye (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.68241316,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-11,AKSHIVYUDASAH (KEVALAVATA),ptosis of eye ball (due only to vātadōṣa) ,SR63,- - - - Pattern of abnormal positioning of organs and appendages (TM2),0.64853966,2
+AAB-12,AKSHISULAH (KEVALAVATA),piercing type of eye pain (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.7256307,3
+,,,,,,
+,,,,,,
+AAB-13,ATOPAH (KEVALAVATA),borborygmus (due only to vātadōṣa) ,SS73,- - - - - Ṣafrā’ predominant temperament pattern (TM2),0.63988805,1
+,,,,,,
+,,,,,,
+AAB-14,AKSHEPAKAH (KEVALAVATA),clonic convulsion (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.66011995,1
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-15,UCCAIHSRUTIH (KEVALAVATA),hypacousia (due only to vātadōṣa) ,SR1C,- - - - Aggravation of kapha pattern (TM2),0.64094234,1
+,,,,,,
+AAB-16,UDARAVESHTAH (KEVALAVATA),feeling of abdomen as if enveloped by a cloth (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6911915,3
+,,,,,,
+,,,,,,
+AAB-17,UDAVARTAH (KEVALAVATA),obstipation (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.68987346,1
+,,,,,,
+,,,,,,
+AAB-18,URUSTAMBAH/ADHYAVATAH (KEVALAVATA),stiff thigh (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6663727,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-19,URUSADAH (KEVALAVATA),thigh fatigue (due only to vātadōṣa) ,SR1C,- - - - Aggravation of kapha pattern (TM2),0.63310575,2
+,,,,,,
+,,,,,,
+AAB-20,EKANGAROGAH (KEVALAVATA),monoplegia (due only to vātadōṣa) ,SS5D,- - - - - Aẕal-predominant Aiyam body constitution pattern (TM2),0.6335168,2
+AAB-21,OSHTHABEDAH (KEVALAVATA),cleft lip (due only to vātadōṣa) ,SS75,- - - - - Sawdā’ predominant temperament pattern (TM2),0.6507187,1
+,,,,,,
+,,,,,,
+AAB-22,KANTHODHVAMSAH (KEVALAVATA),hoarseness of voice (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.6484984,1
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-23,KARNASULAH (KEVALAVATA),earache/otalgia (due only to vātadōṣa) ,SP20,"- - - - - Muscle pain, twisting disorder (TM2)",0.6582795,1
+,,,,,,
+AAB-24,KAMPAH/VEPATHUH (KEVALAVATA),tremor (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.66314244,3
+,,,,,,
+,,,,,,
+AAB-25,KASHAYASYATA (KEVALAVATA),feeling of astringent taste (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.6697043,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-26,KLAMAH (KEVALAVATA),fatigue without physical exertion/sense-fatigue (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.665437,2
+AAB-27,KARSHNYAM (KEVALAVATA),blackish discoloration (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.69169575,1
+,,,,,,
+,,,,,,
+AAB-28,KUBJATVAM (KEVALAVATA),kyphosis/captocormia (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.67894685,1
+,,,,,,
+,,,,,,
+AAB-29,KARSYAM (KEVALAVATA),emaciation (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.66024315,3
+,,,,,,
+,,,,,,
+AAB-30,KESABUMISPUTANAM (KEVALAVATA),cracking of scalp (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.6658564,1
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-31,KHANJAH/KHANJATVAM (KEVALAVATA),lameness (unilateral) (due only to vātadōṣa) ,SS75,- - - - - Sawdā’ predominant temperament pattern (TM2),0.62703073,1
+,,,,,,
+AAB-32,GARBANASAH (KEVALAVATA),foetal distress/foetal death (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6817912,3
+,,,,,,
+,,,,,,
+AAB-33,GRIVASTAMBAH/GRIVAHUNDANAM (KEVALAVATA),neck stiffness/torticollis/spasmodic torticollois (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.70362335,3
+,,,,,,
+,,,,,,
+AAB-34,GUDABRAMSAH (KEVALAVATA),rectal prolapse (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.670802,1
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-35,GUDARTIH (KEVALAVATA),anal pain/proctalgia (due only to vātadōṣa) ,SR17,- - - - Aggravation of pitta pattern (TM2),0.6545127,1
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-36,GULPA-GRAHAH (KEVALAVATA),stiff ankle (due only to vātadōṣa) ,SR63,- - - - Pattern of abnormal positioning of organs and appendages (TM2),0.64604366,2
+AAB-37,GRUDHRASI (KEVALAVATA),sciatia (due only to vātadōṣa) ,SS73,- - - - - Ṣafrā’ predominant temperament pattern (TM2),0.73273623,1
+,,,,,,
+,,,,,,
+AAB-38,GHRANANASAH/NASAHUNDANAM (KEVALAVATA),anosmia (due only to vātadōṣa) ,SS5D,- - - - - Aẕal-predominant Aiyam body constitution pattern (TM2),0.5972227,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-39,JANUBEDAH (KEVALAVATA),breaking pain of knees (due only to vātadōṣa) ,SR1C,- - - - Aggravation of kapha pattern (TM2),0.6252978,1
+AAB-40,JANUVISLESHAH (KEVALAVATA),lax knee (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.61653864,3
+,,,,,,
+,,,,,,
+AAB-41,JRUMBA (KEVALAVATA),morbid yawning/oscitation (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.67593694,1
+,,,,,,
+,,,,,,
+AAB-42,TAMAH (KEVALAVATA),fainting/syncope (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.68410873,1
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-43,TIMIRAH (KEVALAVATA),partial or total blindness/amaurosis/ametropia/partial obstruction of vision (due only to vātadōṣa) ,SR62,- - - - Pattern resulting in abnormal number of organs and appendages (TM2),0.6676897,1
+,,,,,,
+AAB-44,TVAKSUNYATA (KEVALAVATA),hypoesthesia (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.68256235,1
+,,,,,,
+,,,,,,
+AAB-45,TODAH (KEVALAVATA),pricking pain (due only to vātadōṣa) ,SR10,- - - - Vitiation of vāta pattern (TM2),0.64598495,1
+,,,,,,
+,,,,,,
+AAB-46,DANDAKAH (KEVALAVATA),tonic convulsion (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.6490121,1
+,,,,,,
+,,,,,,
+AAB-47,DANTABEDAH (KEVALAVATA),odontalgia/tooth fracture (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.7026478,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-48,DANTASAITHILYAM (KEVALAVATA),tooth mobility (due only to vātadōṣa) ,SS5D,- - - - - Aẕal-predominant Aiyam body constitution pattern (TM2),0.6251893,2
+AAB-49,NAKHABEDAH (KEVALAVATA),brittle nail (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.69199467,3
+,,,,,,
+,,,,,,
+AAB-50,HRASVAKESAH (KEVALAVATA),short hair (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.6726842,1
+,,,,,,
+,,,,,,
+AAB-51,NIRAMAVATAH,vitiation of vāta without association of āma (undigested material) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.7222077,1
+,,,,,,
+,,,,,,
+AAB-52,PAKSHAGHATAH/PAKSHAVADHAH (KEVALAVATA),hemiplegia/hemiparesis (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.65200186,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-53,PANGULYAM (KEVALAVATA),limping (due only to vātadōṣa) ,SS5A,- - - - - Vaḷi-predominant Aẕal body constitution pattern (TM2),0.62991476,2
+AAB-54,PADABRAMSAH (KEVALAVATA),foot drop (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.62562805,1
+,,,,,,
+,,,,,,
+AAB-55,PADASULAH (KEVALAVATA),leg pain (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6728132,1
+,,,,,,
+,,,,,,
+AAB-56,PADASUPTATA (KEVALAVATA),numbness of foot (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6523671,1
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-57,PARUSHYAM (KEVALAVATA),roughness (due only to vātadōṣa) ,ST0V,- - - - Change of temperament of psychic Rūḥ pattern (TM2),0.62785953,1
+,,,,,,
+AAB-58,PARSVAVAMARDAH (KEVALAVATA),flank pain (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6705622,1
+,,,,,,
+,,,,,,
+AAB-59,PINDIKODVESHTANAM (KEVALAVATA),calf muscle cramp (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6911189,1
+,,,,,,
+,,,,,,
+AAB-60,PURISHATIGADHATVAM (KEVALAVATA),hard stool (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.6682487,1
+,,,,,,
+,,,,,,
+AAB-61,PRUSHTHA-GRAHAH (KEVALAVATA),stiff back (due only to vātadōṣa) ,SS75,- - - - - Sawdā’ predominant temperament pattern (TM2),0.6356747,1
+,,,,,,
+,,,,,,
+AAB-62,PRALAPAKAH (KEVALAVATA),delirium (due only to vātadōṣa) ,SR10,- - - - Vitiation of vāta pattern (TM2),0.6299418,1
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-63,BADHIRYAM (KEVALAVATA),deafness (due only to vātadōṣa) ,SR10,- - - - Vitiation of vāta pattern (TM2),0.640202,2
+,,,,,,
+AAB-64,BAHUSOSHAH (KEVALAVATA),atrophy of arm (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.67222285,1
+,,,,,,
+,,,,,,
+AAB-65,BALAHANIH (KEVALAVATA),weakness (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.651158,3
+,,,,,,
+,,,,,,
+AAB-66,BEDAH (KEVALAVATA),splitting pain/breaking pain (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.64842296,1
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-67,BIRUTA (KEVALAVATA),cowardness (due only to vātadōṣa) ,ST0V,- - - - Change of temperament of psychic Rūḥ pattern (TM2),0.62082726,2
+,,,,,,
+AAB-68,MALA-APRAVRUTIH (KEVALAVATA),retention of stool (due only to vātadōṣa) ,SR10,- - - - Vitiation of vāta pattern (TM2),0.6902236,3
+,,,,,,
+,,,,,,
+AAB-69,MUKATVAM (KEVALAVATA),dumbness/aphasia (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.67197526,1
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-70,MOHAH (KEVALAVATA),unconsciousness (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.6397747,1
+,,,,,,
+AAB-71,BRAMAH (KEVALAVATA),giddiness (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.68398494,1
+,,,,,,
+,,,,,,
+AAB-72,BRUVYUDASAH (KEVALAVATA),twitching eyebrow (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.62231743,1
+,,,,,,
+,,,,,,
+AAB-73,MANYASTAMBAH (KEVALAVATA),stiff neck/torticollis/wry neck (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.68918514,2
+,,,,,,
+,,,,,,
+AAB-74,MUKHASOSHAH (KEVALAVATA),xerostomia/dry mouth (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.65988135,3
+,,,,,,
+,,,,,,
+AAB-75,MUTRANIGRAHAH (KEVALAVATA),anuria/uroschesis (due only to vātadōṣa) ,SR12,- - - - Aggravation of vata pattern (TM2),0.64746076,1
+,,,,,,
+,,,,,,
+AAB-76,RAJONASAH (KEVALAVATA),amenorrhoea (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.65799445,1
+,,,,,,
+,,,,,,
+AAB-77,RAUKSHYAM (KEVALAVATA),dryness (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.65871507,1
+,,,,,,
+,,,,,,
+AAB-78,LOMAHARSHAH (KEVALAVATA),horripilaton (due only to vātadōṣa) ,SR10,- - - - Vitiation of vāta pattern (TM2),0.6630867,1
+,,,,,,
+,,,,,,
+AAB-79,LALATABEDAH (KEVALAVATA),splitting pain of forehead (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.65987325,1
+,,,,,,
+,,,,,,
+AAB-80,TRIKAGRAHAH (KEVALAVATA),sacroiliac joint stiffness (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.719349,1
+,,,,,,
+,,,,,,
+AAB-81,VARTMASTAMBAH (KEVALAVATA),ptosis/stiff eyelid (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6592581,2
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-82,VARTMASANKOCAH (KEVALAVATA),entropion/contraction of eyelid (due only to vātadōṣa) ,SR62,- - - - Pattern resulting in abnormal number of organs and appendages (TM2),0.645455,1
+AAB-83,VAKSHOPARODHAH (KEVALAVATA),impaired thoracic movement (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.695513,3
+,,,,,,
+,,,,,,
+AAB-84,VAKSHASTODAH (KEVALAVATA),chest pain (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6809728,1
+,,,,,,
+,,,,,,
+AAB-85,VAK-SANGAH (KEVALAVATA),lalling speech (due only to vātadōṣa) ,SS75,- - - - - Sawdā’ predominant temperament pattern (TM2),0.6609475,1
+,,,,,,
+,,,,,,
+AAB-86,VACALATA (KEVALAVATA),talkativeness (due only to vātadōṣa) ,SS5A,- - - - - Vaḷi-predominant Aẕal body constitution pattern (TM2),0.6690327,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-87,VATAKHUDDATA/VATAKANTAKAH (KEVALAVATA),club foot/deformity in ankle (due only to vātadōṣa) ,SR62,- - - - Pattern resulting in abnormal number of organs and appendages (TM2),0.6003165,2
+,,,,,,
+,,,,,,
+AAB-88,VAMANATVAM (KEVALAVATA),dwarfism (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.639257,2
+AAB-89,VID-BEDAH (KEVALAVATA),diarrhoea due only to vāta (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.7132659,1
+,,,,,,
+,,,,,,
+AAB-90,VIPADIKA (NANATMAJA) (KEVALAVATA),cracks in palms and soles (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.64730537,1
+,,,,,,
+,,,,,,
+AAB-91,VISHADAH/DINATA (KEVALAVATA),depression/apathy (due only to vātadōṣa) ,ST0V,- - - - Change of temperament of psychic Rūḥ pattern (TM2),0.65803325,1
+,,,,,,
+,,,,,,
+AAB-92,VRUSHANAKSHEPAH (KEVALAVATA),scrotal pain (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.68390584,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAB-93,VANKSHANANAHAH (KEVALAVATA),distention of inguinal region (due only to vātadōṣa) ,SR1C,- - - - Aggravation of kapha pattern (TM2),0.6771883,1
+,,,,,,
+,,,,,,
+AAB-94,VYATHA (KEVALAVATA),pain/agony (due only to vātadōṣa) ,SR10,- - - - Vitiation of vāta pattern (TM2),0.6476369,2
+AAB-95,SIRASPURTIH (KEVALAVATA),vasodilatation (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6920755,1
+,,,,,,
+,,,,,,
+AAB-96,SIRORUK (KEVALAVATA),headache/cephalgia/cephalalgia (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.7248876,1
+,,,,,,
+,,,,,,
+AAB-97,SUKRAKSHAYAH (KEVALAVATA),oligospermia (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.65459925,1
+,,,,,,
+,,,,,,
+AAB-98,SANKHABEDAH (KEVALAVATA),temporal cephalalgia (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.69266427,1
+,,,,,,
+,,,,,,
+AAB-99,SEPASTAMBAH (KEVALAVATA),priapism (due only to vātadōṣa) ,SR10,- - - - Vitiation of vāta pattern (TM2),0.62083995,1
+,,,,,,
+,,,,,,
+AAB-100,SAITYAM (KEVALAVATA),chills/shivering (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.6865614,1
+,,,,,,
+,,,,,,
+AAB-101,SYAVARUNASYATA (KEVALAVATA),dusky-red oral pigmentation (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.6999685,1
+,,,,,,
+,,,,,,
+AAB-102,SRONIBEDAH (KEVALAVATA),pelvic pain (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6830158,1
+,,,,,,
+,,,,,,
+AAB-103,SANKOCAH (KEVALAVATA),contracture (due only to vātadōṣa) ,SR10,- - - - Vitiation of vāta pattern (TM2),0.68522835,1
+,,,,,,
+,,,,,,
+AAB-104,SVEDANASAH (KEVALAVATA),anhidrosis/hypohidrosis (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.69405496,1
+,,,,,,
+,,,,,,
+AAB-105,SRAMAH (KEVALAVATA),physical exhaustion (due only to vātadōṣa) ,SR10,- - - - Vitiation of vāta pattern (TM2),0.6443685,1
+,,,,,,
+,,,,,,
+AAB-106,SARVANGAROGAH/SARVANGAVATAH (KEVALAVATA),total body paralysis/quadriplegia (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6776101,1
+,,,,,,
+,,,,,,
+AAB-107,STAMBAH (KEVALAVATA),stiffness/rigidity/spasticity (due only to vātadōṣa) ,SS56,- - - - - Body constitution with a predominance of all three dosha pattern (TM2),0.64420354,1
+,,,,,,
+,,,,,,
+AAB-108,HANUBEDAH (KEVALAVATA),jaw pain (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.67321074,1
+,,,,,,
+,,,,,,
+AAB-109,HIKKA (KEVALAVATA),hiccup/singultus (due only to vātadōṣa) ,SS5A,- - - - - Vaḷi-predominant Aẕal body constitution pattern (TM2),0.641714,1
+,,,,,,
+,,,,,,
+AAB-110,HRUDDRAVAH (KEVALAVATA),palpitation (due only to vātadōṣa) ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.6664585,1
+,,,,,,
+,,,,,,
+AAB-111,HRUNMOHAH (KEVALAVATA),bradycardia (due only to vātadōṣa) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.66920185,1
+,,,,,,
+,,,,,,
+AAB-112,GRIVAHUNDANAM,tremor neck ,SS75,- - - - - Sawdā’ predominant temperament pattern (TM2),0.5357747,1
+,,,,,,
+,,,,,,
+AAC,SAMANYAJAVATAVIKARAH,diseases due to vāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.584116,1
+,,,,,,
+,,,,,,
+AAC-1,ANTARAYAMAH,emprosthotonous ,SS73,- - - - - Ṣafrā’ predominant temperament pattern (TM2),0.66919327,3
+,,,,,,
+,,,,,,
+,,,,,,
+AAC-2,APATANTRAKAH,convulsive fit ,SR62,- - - - Pattern resulting in abnormal number of organs and appendages (TM2),0.6934482,1
+,,,,,,
+,,,,,,
+,,,,,,
+AAC-2.1,ASADHYA-APATANTRAKAH,intractable convulsive fit ,SS73,- - - - - Ṣafrā’ predominant temperament pattern (TM2),0.67403305,2
+AAC-3,APATANAKAH,orthotonos ,SS73,- - - - - Ṣafrā’ predominant temperament pattern (TM2),0.65965104,3
+,,,,,,
+,,,,,,
+AAC-4,ARDITAH,facial paralysis ,SS73,- - - - - Ṣafrā’ predominant temperament pattern (TM2),0.64097536,3
+,,,,,,
+,,,,,,
+AAC-4.1,ARDITA-PURVARUPAM,prodromes of facial paralysis ,SR62,- - - - Pattern resulting in abnormal number of organs and appendages (TM2),0.71128136,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAC-4.2,ASADHYA-ARDITAH,irremediable facial palsy ,SS5D,- - - - - Aẕal-predominant Aiyam body constitution pattern (TM2),0.65079546,2
+AAC-5,ASTHIPRABEDAH,osteodynia/ostealgia ,SL01,- - - - - Retropharyngeal abscess disorder (TM2),0.6185542,1
+,,,,,,
+,,,,,,
+AAC-6,ASTHISOSHAH,osteopenia/osteoporosis ,SL08,- - - - - Lymphadenopathy in throat region disorder (TM2),0.62668383,1
+,,,,,,
+,,,,,,
+AAC-7,VATASHTHILA,prostatic enlargement ,SR62,- - - - Pattern resulting in abnormal number of organs and appendages (TM2),0.730212,1
+,,,,,,
+,,,,,,
+AAC-8,AVABAHUKAH,frozen shoulder ,SR63,- - - - Pattern of abnormal positioning of organs and appendages (TM2),0.7584425,1
+,,,,,,
+,,,,,,
+AAC-9,URUSTAMBAH/ADHYAVATAH,stiff thigh ,SS73,- - - - - Ṣafrā’ predominant temperament pattern (TM2),0.6530092,1
+,,,,,,
+,,,,,,
+AAC-9.1,URUSTAMBA-PURVARUPAM,prodromes of stiff-thigh ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.72939384,1
+,,,,,,
+,,,,,,
+AAC-9.2,ASADHYA-URUSTAMBAH,intractable stiff-thigh ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.72568345,1
+,,,,,,
+,,,,,,
+AAC-10,AMSASOSHAH,shoulder muscle atrophy ,SR63,- - - - Pattern of abnormal positioning of organs and appendages (TM2),0.75978804,1
+,,,,,,
+,,,,,,
+AAC-11,AKSHEPAKAH,clonic convulsion ,SS73,- - - - - Ṣafrā’ predominant temperament pattern (TM2),0.63701063,1
+,,,,,,
+,,,,,,
+AAC-12,ADHMANAM,distension/tympanites/meteorism ,SM75,- - - - Dynamic intestinal obstruction disorder (TM2),0.71383387,1
+,,,,,,
+,,,,,,
+AAC-12.1,PRATYADHMANAH/PRATYANAHAH,tympanites/meteorism ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.70253056,1
+,,,,,,
+,,,,,,
+AAC-12.2,AMAJA-ANAHAH,ānāha due to āma ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.7251519,1
+,,,,,,
+,,,,,,
+AAC-12.3,PURISHAJA-ANAHAH/PURISHA SULA/PAKVASAYAJANAHAH,ānāha due to faeces ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.7213931,1
+,,,,,,
+,,,,,,
+AAC-12.4,VIBANDHA,simple constipation,SS75,- - - - - Sawdā’ predominant temperament pattern (TM2),0.62128603,1
+,,,,,,
+,,,,,,
+AAC-13,BAHIRAYAMAH/BAHYAYAMAH/DHANUHSTAMBAH,opisthotonus ,SS73,- - - - - Ṣafrā’ predominant temperament pattern (TM2),0.70552844,1
+,,,,,,
+,,,,,,
+AAC-13.1,ASADHYADHANUSHKAMPA,irremediable opisthotonus ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.70752794,1
+,,,,,,
+,,,,,,
+AAC-14,URDHVAVATAH,obstruction of vāta in the intestine/reverse peristalsis ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.7180867,1
+,,,,,,
+,,,,,,
+AAC-15,EKANGAVATAH,monoplegia ,SS73,- - - - - Ṣafrā’ predominant temperament pattern (TM2),0.7091813,1
+,,,,,,
+,,,,,,
+AAC-16,KALAYAKHANJAH,kesari palsy/lathyrism ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.667614,1
+,,,,,,
+,,,,,,
+AAC-17,KROSHTUKASIRSHAH,knee synovitis ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.7366279,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAC-18,KHANJAH/KHANJATVAM,lameness (unilateral) ,SP20,"- - - - - Muscle pain, twisting disorder (TM2)",0.68552315,2
+,,,,,,
+,,,,,,
+AAC-19,KHALLI,twisting-pain on limbs ,SR62,- - - - Pattern resulting in abnormal number of organs and appendages (TM2),0.681247,2
+AAC-20,GRUDHRASI,sciatia ,SR63,- - - - Pattern of abnormal positioning of organs and appendages (TM2),0.7334614,1
+,,,,,,
+,,,,,,
+,,,,,,
+AAC-20.1,VATIKAGRUDHRASI,gRudhrasI due to vāṭa ,SS5D,- - - - - Aẕal-predominant Aiyam body constitution pattern (TM2),0.702033,1
+,,,,,,
+AAC-20.2,VATAKAPAJA-GRUDHRASI,gRudhrasI due to vāta and kapha ,SS5D,- - - - - Aẕal-predominant Aiyam body constitution pattern (TM2),0.7206148,1
+,,,,,,
+,,,,,,
+AAC-21,JIHVASTAMBAH,tongue paralysis ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.69959813,1
+,,,,,,
+,,,,,,
+AAC-22,TUNI,bladder pain radiating towards anus and penis ,SR63,- - - - Pattern of abnormal positioning of organs and appendages (TM2),0.7169231,1
+,,,,,,
+,,,,,,
+AAC-23,DANDAPATANAKAH,orthotonos with rod like stiffness ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.72794926,1
+,,,,,,
+,,,,,,
+AAC-24,PAKSHAGHATA/PAKSHAVADHAH,hemiplegia ,SR62,- - - - Pattern resulting in abnormal number of organs and appendages (TM2),0.72015804,3
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAC-24.1,KAPANVITAPAKSHAGHATAH,pakśāghāta due to kapha ,SR1C,- - - - Aggravation of kapha pattern (TM2),0.67590344,2
+,,,,,,
+,,,,,,
+AAC-24.2,PITTANVITAPAKSHAGHATAH,pakśāghāta due to pitta ,ST0V,- - - - Change of temperament of psychic Rūḥ pattern (TM2),0.6817566,2
+AAC-24.3,BALA-PAKSHAGHATAH,hemiplegia in children ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.63703775,1
+,,,,,,
+,,,,,,
+AAC-25,PADADAHAH,burning feet ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.6679818,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAC-26,PADAHARSHAH,tingling feet ,SR63,- - - - Pattern of abnormal positioning of organs and appendages (TM2),0.68174934,2
+AAC-27,PRATITUNI,reverse of ptūnī ,ST0V,- - - - Change of temperament of psychic Rūḥ pattern (TM2),0.6942596,1
+,,,,,,
+,,,,,,
+AAC-28,PRATYASHTHILA,prostatic hyperplasia ,SR62,- - - - Pattern resulting in abnormal number of organs and appendages (TM2),0.7214737,1
+,,,,,,
+,,,,,,
+AAC-29,VRANAYAMAH,post-traumatic convulsion ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6444626,1
+,,,,,,
+,,,,,,
+AAC-30,PANGUH,lameness (bilateral) ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.75006056,1
+,,,,,,
+,,,,,,
+AAC-31,MINMINAH,nasal voice ,SS75,- - - - - Sawdā’ predominant temperament pattern (TM2),0.7100108,1
+,,,,,,
+,,,,,,
+AAC-32,MANYASTAMBAH,stiff neck/torticollis/wry neck ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.74385905,1
+,,,,,,
+,,,,,,
+AAC-33,MUKATVAM,dumbness/aphasia ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.7220145,1
+,,,,,,
+,,,,,,
+,,,,,,
+AAC-34,VATAKANTAKAM,calcanial spur/painful heel ,SP20,"- - - - - Muscle pain, twisting disorder (TM2)",0.6767022,1
+,,,,,,
+AAC-35,VISVACI,brachial neuralgia/arm pain ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.7497112,1
+,,,,,,
+,,,,,,
+AAC-36,KAMPAH/VEPATHUH,tremor ,SR62,- - - - Pattern resulting in abnormal number of organs and appendages (TM2),0.71397305,1
+,,,,,,
+,,,,,,
+AAC-37,SIROGRAHAH,head and neck rigidity ,SR63,- - - - Pattern of abnormal positioning of organs and appendages (TM2),0.60290754,1
+,,,,,,
+,,,,,,
+AAC-38,SARVANGAVATAH/SARVANGAROGAH,total body paralysis/quadriplegia ,SS5D,- - - - - Aẕal-predominant Aiyam body constitution pattern (TM2),0.60640574,1
+,,,,,,
+,,,,,,
+AAC-39,SIRAGRAHAH,vasoconstriction ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.718819,1
+,,,,,,
+,,,,,,
+AAC-40,HANUGRAHAH/HANUSRAMSA,lock-jaw/trismus ,SS75,- - - - - Sawdā’ predominant temperament pattern (TM2),0.6686603,1
+,,,,,,
+,,,,,,
+AAD,AVRUTA-VATAH/AVARANAVATA,occlusion of vāta ,SR10,- - - - Vitiation of vāta pattern (TM2),0.6430913,2
+,,,,,,
+,,,,,,
+AAD-1,ANYONYAVARANAH/PARASPARA-AVARANAH,mutual occlusion of vāta ,SR10,- - - - Vitiation of vāta pattern (TM2),0.6086875,1
+,,,,,,
+,,,,,,
+AAD-1.1,PRANAVRUTAVYANAVATAH,disorders of vyānavāta occluded by prāṇāvāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6882098,1
+,,,,,,
+,,,,,,
+AAD-1.2,VYANAVRUTAPRANAVATAH,disorders of prāṇavāta occluded by vyānāvāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6876941,1
+,,,,,,
+,,,,,,
+AAD-1.3,PRANAVRUTASAMANAVATAH,disorders of samānavāta occluded by prāṇāvāta ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.70623875,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAD-1.4,SAMANAVRUTA-APANAVATAH,disorders of apāṇavāta occluded by samānāvāta ,SR1C,- - - - Aggravation of kapha pattern (TM2),0.68937105,2
+,,,,,,
+AAD-1.5,PRANAVRUTA-UDANAVATAH,disorders of udānavāta occluded by prāṇāvāta ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.69946206,1
+,,,,,,
+AAD-1.6,UDANAVRUTAPRANAVATAH,disorders of prāṇavāta occluded by udānāvāta ,SS56,- - - - - Body constitution with a predominance of all three dosha pattern (TM2),0.67479146,1
+,,,,,,
+,,,,,,
+AAD-1.7,UDANAVRUTA-APANAVATAH,disorders of apāṇavāta occluded by udānā vāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6913409,1
+,,,,,,
+,,,,,,
+AAD-1.8,APANAVRUTA-UDANAVATAH,disorders of udānavāta occluded by apāṇavāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6531348,1
+,,,,,,
+,,,,,,
+AAD-1.9,VYANAVRUTA-APANAVATAH,disorders of apāṇavāta occluded by vyAnA vāta ,SR89,"- - - - Urine colour of excessive depravement of Vaḷi, Aẕal and Aiyam pattern (TM2)",0.671767,1
+,,,,,,
+,,,,,,
+AAD-1.10,APANAVRUTA-VYANAVATAH,disorders of vyānavāta occluded by apāṇavāta ,SS73,- - - - - Ṣafrā’ predominant temperament pattern (TM2),0.651976,1
+,,,,,,
+,,,,,,
+AAD-1.11,SAMANAVRUTA-VYANAVATAH,disorders of apāṇavāta occluded by samAnA vāta ,ST0V,- - - - Change of temperament of psychic Rūḥ pattern (TM2),0.7209789,1
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+AAD-1.12,UDANAVRUTAVYANAVATAH,disorders of vyānavāta occluded by udAna vāta ,SS5A,- - - - - Vaḷi-predominant Aẕal body constitution pattern (TM2),0.65079874,2
+AAD-1.13,APANAVRUTASAMANAVATAH,disorders of samānavāta occluded by apāṇavāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6006955,1
+,,,,,,
+,,,,,,
+AAD-1.14,APANAVRUTA-PRANAVATAH,disorders of prāṇāvāta occluded by apāṇavāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6205626,1
+,,,,,,
+,,,,,,
+AAD-1.15,PRANAVRUTA-APANAVATAH,disorders of apāṇavāta occluded by prāṇavāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.620592,1
+,,,,,,
+,,,,,,
+AAD-1.16,SAMANAVRUTAPRANAVATAH,disorders of prāṇavāta occluded by samānavāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.60534006,1
+,,,,,,
+,,,,,,
+AAD-1.17,SAMANAVRUTA-UDANAVATAH,disorders of udānavāta occluded by samānavāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6227497,1
+,,,,,,
+,,,,,,
+AAD-1.18,UDANAVRUTASAMANAVATAH,disorders of samānavāta occluded by udAna vāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6111443,1
+,,,,,,
+,,,,,,
+AAD-1.19,VYANAVRUTA-UDANAVATAH,disorders of udānavāta occluded by vyānavāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.6383271,1
+,,,,,,
+,,,,,,
+AAD-1.20,VYANAVRUTASAMANAVATAH,disorders of samānavāta occluded by vyāna vāta ,SK55,- - - - Weakness of thighs due to vata disorder (TM2),0.62283015,1
