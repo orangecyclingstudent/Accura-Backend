@@ -18,7 +18,7 @@ from .database import engine, get_db
 ABHA_SERVER_URL = os.getenv("ABHA_SERVER_URL", "http://127.0.0.1:8001")
 CLIENT_ID = "accura_emr_client"
 CLIENT_SECRET = "accura_emr_secret"
-APP_SECRET_KEY = "a_very_secret_key_for_sessions"
+APP_SECRET_KEY = os.getenv("APP_SECRET_KEY", "a_very_secret_key_for_sessions")
 BACKEND_BASE_URL = os.getenv("BACKEND_BASE_URL", "http://localhost:8000")
 FRONTEND_BASE_URL = os.getenv("FRONTEND_BASE_URL", "https://sih-frontend-nu.vercel.app")
 
@@ -34,10 +34,10 @@ app = FastAPI(
     version="1.0.0"
 )
 
-app.add_middleware(SessionMiddleware, secret_key=APP_SECRET_KEY, same_site='lax', https_only=False)
+app.add_middleware(SessionMiddleware, secret_key=APP_SECRET_KEY, same_site='lax', https_only=True)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "https://sih-frontend-nu.vercel.app"],
+    allow_origins=[FRONTEND_BASE_URL, "http://localhost:5173"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
