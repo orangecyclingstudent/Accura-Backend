@@ -49,7 +49,7 @@ app.add_middleware(
 def auth_login(request: Request):
     state = str(uuid.uuid4())
     request.session["oauth_state"] = state
-    redirect_uri = f"{BACKEND_BASE_URL}/auth/callback"
+    redirect_uri = f"{FRONTEND_BASE_URL}/auth/callback"
     auth_url = f"{ABHA_SERVER_URL}/authorize?client_id={CLIENT_ID}&redirect_uri={redirect_uri}&state={state}"
     return RedirectResponse(url=auth_url)
 
