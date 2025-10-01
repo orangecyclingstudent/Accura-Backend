@@ -22,7 +22,7 @@ APP_SECRET_KEY = os.getenv("APP_SECRET_KEY", "a_very_secret_key_for_sessions")
 BACKEND_BASE_URL = os.getenv("BACKEND_BASE_URL", "http://localhost:8000")
 FRONTEND_BASE_URL = os.getenv("FRONTEND_BASE_URL", "https://sih-frontend-nu.vercel.app")
 
-PATIENT_CLIENT_REDIRECT_URI = f"{BACKEND_BASE_URL}/consent/callback"
+PATIENT_CLIENT_REDIRECT_URI = f"{FRONTEND_BASE_URL}/consent/callback"
 FRONTEND_CONSENT_SUCCESS_URI = f"{FRONTEND_BASE_URL}/add-patient/success"
 MOCK_FHIR_ENDPOINT = f"{ABHA_SERVER_URL}/fhir/bundle"
 
