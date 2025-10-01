@@ -180,3 +180,30 @@ async def read_users_me(request: Request):
     if not user_id:
         raise HTTPException(status_code=401, detail="Not authenticated")
     return {"userId": user_id, "name": user_name}
+
+# --- Admin Data Ingestion Endpoint ---
+
+from . import ingestion_logic
+
+@app.get("/admin/ingest-data", tags=["Admin"])
+def trigger_ingestion(db: Session = Depends(get_db)):
+    """
+    A temporary admin endpoint to trigger the initial data ingestion.
+    This should be called once after deployment.
+    """
+    try:
+        print("Starting NAMASTE code ingestion...")
+        namaste_count = ingestion_logic.ingest_namaste_codes(db)
+        print(f"NAMASTE ingestion complete. Inserted {namaste_count} new codes.")
+
+        print("Starting Concept Map ingestion...")
+        map_results = ingestion_logic.ingest_concept_map(db)
+        print(f"Concept Map ingestion complete.")
+
+        return {
+            "status": "success",
+            "namaste_codes_inserted": namaste_count,
+            "concept_map_results": map_results
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
